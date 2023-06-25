@@ -3,7 +3,7 @@ package flow
 import (
 	"net/http"
 
-	"allaccessone/flow-service/utils"
+	"allaccessone/blockchains-support/utils"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"

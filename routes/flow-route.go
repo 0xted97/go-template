@@ -3,7 +3,7 @@ package routes
 import (
 	"github.com/gin-gonic/gin"
 
-	"allaccessone/flow-service/modules/flow"
+	"allaccessone/blockchains-support/modules/flow"
 )
 
 func InitFlowRoutes(route *gin.Engine) {

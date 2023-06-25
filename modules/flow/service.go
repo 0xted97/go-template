@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"allaccessone/flow-service/utils"
+	"allaccessone/blockchains-support/utils"
 	"context"
 	"fmt"
 

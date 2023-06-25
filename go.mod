@@ -1,4 +1,4 @@
-module allaccessone/flow-service
+module allaccessone/blockchains-support
 
 go 1.20
 

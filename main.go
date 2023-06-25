@@ -1,8 +1,8 @@
 package main
 
 import (
-	"allaccessone/flow-service/routes"
-	"allaccessone/flow-service/utils"
+	"allaccessone/blockchains-support/routes"
+	"allaccessone/blockchains-support/utils"
 	"log"
 	"net/http"
 
